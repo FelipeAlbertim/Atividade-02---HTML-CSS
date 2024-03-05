@@ -1,0 +1,43 @@
+.pai1 {
+    background-color:gray;
+    height: 160px;
+    width: 99%;
+    border:  2px ;
+    margin: 2px;
+}
+
+
+.filho1 {
+    background-image: url(https://moodle.sptech.school/pluginfile.php/1/core_admin/logo/0x150/1692971033/sptech_principal_ciano.png);
+    background-size: cover;
+    width: 20%;
+    height:100%;
+    border:2px ;
+    margin: 5px;
+}
+
+.pFilho1 {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+    border: solid 2px blue;
+    margin-top: 50px;
+}
+
+.pai2 {
+    width: 99%;
+    height: 50vh;
+    background-color: gainsboro;
+    border: solid 2px black;
+    margin: 5px;
+}
+
+.filho2 {
+    width: 100vh;
+    height: 90%;
+    background-color: rgb(187, 255, 246);
+    border: solid 2px black;
+    margin: 5px;
+}
